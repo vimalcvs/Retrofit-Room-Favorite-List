@@ -4,7 +4,7 @@ This project demonstrates a Kotlin project utilizing Retrofit and Room for manag
 
 ## Features
 
-- ** Kotlin**: Utilizes Kotlin  to share code between Android and iOS platforms, reducing duplication and enhancing maintainability.
+- **Kotlin**: Utilizes Kotlin  to share code between Android.
 - **Retrofit**: Integrates Retrofit library for handling HTTP requests and simplifying API interactions.
 - **Room**: Utilizes Room persistence library for local data storage and management, providing a robust database solution.
 - **Favorite List**: Demonstrates how to implement a favorite list feature, allowing users to mark items as favorites and persisting this information locally.
